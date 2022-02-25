@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe account of some expressions in Saint Athanasius his Creed for the satisfaction of those who think themselves thereby oblig'd to believe all things therein contain'd to be absolutely necessary to Salvation.</title>
+            <author>Towerson, Gabriel, 1635?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62997</idno>
+            <idno type="STC">Wing T1965</idno>
+            <idno type="STC">ESTC R25657</idno>
+            <idno type="EEBO-CITATION">09053844</idno>
+            <idno type="OCLC">ocm 09053844</idno>
+            <idno type="VID">42340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe account of some expressions in Saint Athanasius his Creed for the satisfaction of those who think themselves thereby oblig'd to believe all things therein contain'd to be absolutely necessary to Salvation.</title>
+                  <author>Towerson, Gabriel, 1635?-1697.</author>
+               </titleStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hall for Tho. Robinson,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Gabriel Towerson--Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Athanasian Creed.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42340:1"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:42340:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>A Briefe account of SOME EXPRESSIONS IN Saint <hi>ATHANASI<g ref="char:V">Ʋ</g>S</hi> HIS CREED: For the ſatisfaction of thoſe who think them<g ref="char:EOLhyphen"/>ſelves thereby oblig'd, to believe all things therein contain'd to be abſolutely neceſſary to SALVATION.</p>
+            <figure>
+               <head>OXONIENSIS ACADEMIA</head>
+            </figure>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Henry Hall</hi> Printer to the UNIVERSITY, for <hi>Tho. Robinſon,</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42340:2"/>
+            <!-- PDF PAGE 110 -->
+            <pb n="1" facs="tcp:42340:2"/>
+            <!-- PDF PAGE 110 -->
+            <head>A briefe account of ſome Expreſsions in <hi>ATHANASIUS</hi> his <hi>Creed,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as many who are ſufficiently con<g ref="char:EOLhyphen"/>vinc'd of the <hi>truth,</hi> are yet unſatisfi'd as to <hi>the abſolute neceſsity of beleiving,</hi> all the Arti<g ref="char:EOLhyphen"/>cles of the <hi>Athanaſian Creed</hi> (which yet
+<hi>ſeverall paſſages</hi> therein ſeem but too dogmatically to impoſe);<note place="margin">
+                  <q>Whoſoever will be ſaved: before all things it is neceſſary that he hold the <hi>Catholick Faith.</hi> Which Faith except every one do keep whole and undefiled, without doubt he ſhall periſh everlaſtingly <hi>&amp;c.</hi>
+                  </q>
+again;
+<q>it is neceſſary to everlaſting ſalvation that he alſo believe rightly in the in<g ref="char:EOLhyphen"/>carnation <hi>&amp;c.</hi> This is the Catho<g ref="char:EOLhyphen"/>lique Faith, which except a man be<g ref="char:EOLhyphen"/>lieve faithfully he cannot be ſaved.</q>
+               </note>
+I thought I might do a peice of acceptable ſer<g ref="char:EOLhyphen"/>vice to endeavour to remove that ſcruple, and thereby engage them the more readily to conforme to <hi>the Li<g ref="char:EOLhyphen"/>turgy of our Church.</hi> In proſecution of which deſigne though I might take another courſe, by demonſtrating that <hi>moſt things</hi> in it are <hi>abſolutely neceſſary</hi> to ſalvation; yet I ſhall chuſe rather to ſhew, that our Church doth not <hi>propoſe</hi> that Creed to us <hi>as ſuch,</hi> becauſe that will be abundantly ſatisfactory to all thoſe who are convinc'd of the truths it containes. Now this I ſhall do in <hi>theſe three aſſertions,</hi>
+               <pb n="2" facs="tcp:42340:3"/>
+               <!-- PDF PAGE 111 -->
+               <list>
+                  <item>1. That our Church doth not require an <hi>explicite beliefe</hi> of <hi>all the Articles</hi> of that Creed, <hi>as abſolutely neceſſary</hi> to Salvation.</item>
+                  <item>2. That it doth not require <hi>ſuch a beliefe of all things</hi> contain'd in the <hi>Apoſtles Creed,</hi> though that be more <hi>ſimple,</hi> and receiv'd by <hi>all that profeſſe them<g ref="char:EOLhyphen"/>ſelves</hi> Chriſtians.</item>
+                  <item>3. And laſtly, that the <hi>Articles of our Church</hi> give ſufficient teſtimony to <hi>my opinion,</hi> and to both the former aſſertions, upon which it is cheifly built.</item>
+               </list>
+            </p>
+            <div n="1" type="assertion">
+               <p>And <hi>firſt of all,</hi> that our Church doth not require an <hi>explicite beliefe</hi> of all the Articles of <hi>Athanaſius</hi> his <hi>Creed as abſolutely neceſſary</hi> to Salvation, is evident from her <hi>formes of Baptizing</hi> both <hi>infants</hi> and <hi>adult perſons.</hi> For ſhe there admits both ſorts to baptiſme (and conſequently to the hopes of Salvation) upon the profeſſion of <hi>the A<g ref="char:EOLhyphen"/>poſtles Creed,</hi> which is not ſo <hi>explicit</hi> as that of <hi>Athanaſius.</hi> The ſtrength of which argument will more fully ap<g ref="char:EOLhyphen"/>peare, if we conſider the opinion the <hi>Church of England</hi> hath of <hi>Baptiſme,</hi> which is that it renders the baptiz'd perſon <hi>a
+<note n="†" place="margin">
+                        <q>Seeing now dearly beloved bre<g ref="char:EOLhyphen"/>thren that <hi>this Child</hi> or <hi>theſe Per<g ref="char:EOLhyphen"/>ſons</hi> are regenerate and grafted into the body of Chriſts Church.</q> 
+                        <p>Forme of Baptizing Infants and thoſe of riper years.</p>
+                     </note> Child of God</hi> (and where the force of it is not voided by actuall ſin) <hi>an
+<note n="*" place="margin">
+                        <q>It is certaine by Gods Word that Children which are baptiz'd dying before they commit actuall ſin are undoubtedly ſav'd</q>
+                        <bibl>Rubr. of Pub<g ref="char:EOLhyphen"/>lique Baptiſme, &amp;c.</bibl>
+                     </note>
+undoubted Heire of Heav'n.</hi> For if it admits even <hi>adult perſons</hi> to the participation of that <hi>Baptiſme</hi> (which it acknowledgeth to make them <hi>the Children of God,</hi> and <hi>Heires of Eternall Glory</hi>) and that too upon
+<pb n="3" facs="tcp:42340:3"/>
+                  <!-- PDF PAGE 111 -->their profeſſion of their beliefe of <hi>the Apoſtles Creed;</hi> then doth it not require an <hi>explicit beliefe</hi> of <hi>Athana<g ref="char:EOLhyphen"/>ſius</hi> his, as <hi>abſolutely neceſſary</hi> to Salvation. For as it is certaine, that the <hi>Apoſtles Creed</hi> is not ſo <hi>explicit</hi> as that of <hi>Athanaſius;</hi> ſo is it no leſſe, that no adult perſon can be a <hi>Child of God</hi> and <hi>an Heire of Heav'n,</hi> without believing all thoſe things that are <hi>abſolutely neceſſary</hi> to Salvation. Let it therefore remaine as an undoubted truth, that <hi>our Church</hi> doth not require an <hi>explicite</hi> beliefe of <hi>all</hi> the <hi>Arti<g ref="char:EOLhyphen"/>cles</hi> of <hi>Athanaſius</hi> his <hi>Creed</hi> as <hi>abſolutely neceſſary</hi> to Sal<g ref="char:EOLhyphen"/>vation. But</p>
+            </div>
+            <div n="2" type="assertion">
+               <p>
+                  <hi>Secondly,</hi> Neither doth ſhe require <hi>ſuch a beliefe</hi> of <hi>all things</hi> in <hi>the Apoſtles Creed,</hi> though <hi>that</hi> be the more <hi>ſimple</hi> and <hi>receiv'd by all that profeſſe themſelves</hi> Chriſtians; the <hi>Church of England</hi> propoſing it not <hi>in all and every Article</hi> as <hi>abſolutely neceſſary</hi> to be believ'd, but as the <hi>Condition of</hi> that <hi>Communion</hi> into which ſhe admits us <hi>upon the pro<g ref="char:EOLhyphen"/>feſsion</hi> of it. For</p>
+               <list>
+                  <item>1. She requires not <hi>any ſuch aſſent</hi> in the <hi>foremention'd formes of Baptiſme,</hi> as wil be evident to any that ſhall conſult them.</item>
+                  <item>2. If ſhe thought <hi>all thoſe Articles abſolutely neceſsary to be believ'd,</hi> ſhe could not make <hi>any diſtinction</hi> between them as <hi>to the neceſsity</hi> of believing them; becauſe there can be <hi>none</hi> in thoſe Articles which are <hi>abſolutely neceſſary</hi> to be believ'd: But the Church makes <hi>ſuch a diſtinction</hi> between the <hi>ſeve<g ref="char:EOLhyphen"/>rall Articles</hi> of the <hi>Apoſtles Creed,</hi> calling ſome
+<pb n="4" facs="tcp:42340:4"/>
+                     <!-- PDF PAGE 112 -->
+                     <hi>principall</hi> and <hi>others not:</hi> The Minor is evident from the <hi>Church-Catechiſme,</hi> where after the reci<g ref="char:EOLhyphen"/>tation of the Articles of the <hi>Apoſtles Creed,</hi> ſhe there demands of the <hi>Catechumen</hi> what he doth <hi>chiefly</hi> learn in the <hi>Articles of his beliefe.</hi> And the <hi>Anſwer</hi> that is return'd is <hi>no other</hi> than this,
+<list>
+                        <item>
+                           <hi>Firſt I learn to believe in God the Father who hath made me and all the world.</hi>
+                        </item>
+                        <item>
+                           <hi>Secondly in God the Son who hath redeemed me and all mankind.</hi>
+                        </item>
+                        <item>
+                           <hi>Thirdly in God the Holy Ghoſt who ſanctifieth me and all the elect people of God.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>3ly, She allowes of <hi>ſeverall interpretations</hi> of <hi>ſome Articles,</hi> and thoſe too <hi>quite different</hi> from one ano<g ref="char:EOLhyphen"/>ther, and cannot therefore be ſuppos'd, to propoſe <hi>all the Articles</hi> as <hi>abſolutely neceſſary</hi> to be believ'd. For that which is <hi>ſuch,</hi> muſt beare the <hi>ſame ſenſe</hi> to <hi>all perſons,</hi> becauſe <hi>all men</hi> have the <hi>ſame concern<g ref="char:EOLhyphen"/>ments</hi> in what is <hi>abſolutely neceſſary</hi> to be believ'd: But thoſe Articles which may be receiv'd with <hi>different interpretations,</hi> cannot bear the <hi>ſame ſenſe</hi> to <hi>all perſons,</hi> and cannot therefore be thought to be <hi>propos'd</hi> as <hi>abſolutely neceſſary</hi> to be believ'd. I inſtance in the Article of <hi>Chriſts deſcent into Hell,</hi> which it is <hi>notorious</hi> the Church of England al<g ref="char:EOLhyphen"/>lowes men to receive in <hi>ſeverall ſenſes;</hi> the moſt <hi>Conſiderable members</hi> thereof having deliver'd <hi>diffe<g ref="char:EOLhyphen"/>rent
+<pb n="5" facs="tcp:42340:4"/>
+                        <!-- PDF PAGE 112 -->interpretations;</hi> and that too without <hi>any cenſure</hi> from the Church for ſo doing. Thus the late Learned D<hi rend="sup">r</hi> 
+                     <hi>Hammond</hi> in his <hi>Practicall Catechiſme</hi> underſtands by <hi>Chriſts deſcent into Hell,</hi> his <hi>conti<g ref="char:EOLhyphen"/>nuance for ſome time in the ſtate of the dead,</hi> and D<hi rend="sup">r</hi> 
+                     <hi>Pearſon</hi> his deſcending into the <hi>common recepta<g ref="char:EOLhyphen"/>cle of departed Souls:</hi> whilſt <hi>others</hi> underſtand it of his deſcent into <hi>hell properly ſo call'd,</hi> either to <hi>triumph over infernall ſpirits</hi> as <hi>ſome,</hi> or as <hi>others</hi> for other reaſons; and yet all of them agreeably enough with the <hi>third Article</hi> of our Church, which only makes his <hi>deſcent</hi> into hell <hi>diſtinct</hi> from his <hi>death</hi> and <hi>bu<g ref="char:EOLhyphen"/>riall.</hi> I conclude then that <hi>Chriſts deſcent into hell,</hi> is not propos'd to us to be believ'd as <hi>abſolutely ne<g ref="char:EOLhyphen"/>ceſſary</hi> to ſalvation; for if it were, it cannot be thought the Church would allow <hi>of ſo many inter<g ref="char:EOLhyphen"/>pretations,</hi> and receive thoſe into her communion who accept the Article <hi>in any one.</hi>
+                  </item>
+                  <item>4ly, and laſtly, There are <hi>many things</hi> in the <hi>Creed,</hi> which are but <hi>circumſtances</hi> of the <hi>Articles;</hi> as Chriſts ſuffering <hi>under Pontius Pilate,</hi> and riſing <hi>the third day.</hi> For though thoſe <hi>circumſtances</hi> are ſet down ſo clearly in Scripture, that no man can doubt of them, and the beliefe of them may be therefore exacted of us as the <hi>condition</hi> of our com<g ref="char:EOLhyphen"/>munion; yet can they not be thought to be <hi>abſo<g ref="char:EOLhyphen"/>lutely neceſſary</hi> to be believ'd. Becauſe the <hi>not-believing</hi> of what is <hi>ſuch,</hi> muſt <hi>neceſsarily damne</hi>
+                     <pb n="6" facs="tcp:42340:5"/>
+                     <!-- PDF PAGE 113 -->us, which I ſuppoſe no man yet did ever affirme of the <hi>not believing thoſe circumſtances;</hi> provided the perſon <hi>not believing</hi> them, did believe <hi>the Articles themſelves,</hi> and was utterly unacquainted with thoſe circumſtances <hi>through no fault of his</hi> at all. 'Tis true, it is hard to ſuppoſe any ſuch ignorance among Chriſtians; but the ſuppoſition however is not impoſſible, and for ought I know there may have bin ſuch ignorance in the late licentious times, when the <hi>Apoſtles Creed</hi> was turn'd out of the Church, and the Scripture ſeldome read in <hi>the Aſſemblies.</hi> The <hi>circumſtances</hi> then of the <hi>Articles</hi> are not <hi>abſolutely neceſſary</hi> to be believ'd; and no man can think, <hi>this</hi> or <hi>any other</hi> Church ever pro<g ref="char:EOLhyphen"/>pos'd them as ſuch: eſpecially if he conſider, that the <hi>Papiſts themſelves</hi> are not ſo great <hi>impoſers,</hi> and accept their weak diſciples upon an <hi>implicit faith</hi> of their determinations.</item>
+               </list>
+            </div>
+            <div n="3" type="assertion">
+               <head>III.</head>
+               <p>
+                  <hi>The third and laſt thing,</hi> upon which I ground my opinion, is the <hi>expreſſe words</hi> of one of the 39 <hi>Articles.</hi> For in the <hi>eighth</hi> of thoſe 39, it is deliver'd in expreſſe termes, <hi>that the three Creeds of the Church ought</hi> therefore <hi>thoroughly to be believ'd, becauſe they may be prov'd by moſt certain warrant of Holy Scripture;</hi> laying the <hi>neceſsity of our thoroughly believing</hi> them, not upon the <hi>abſolute neceſsity</hi> of the things therein contain'd, but upon <hi>the certaine warrant they have from the Holy Scripture.</hi> But ſo is it <hi>neceſsary</hi> for me to believe that <hi>there was
+<pb n="7" facs="tcp:42340:5"/>
+                     <!-- PDF PAGE 113 -->ſuch a man as Solomon,</hi> and that he did <hi>ſometime determine a nice caſe between two harlots in Judea,</hi> becauſe there is <hi>certain warrant</hi> both for the one and the other in <hi>Holy Scripture;</hi> and yet no man did ever affirme, that a man <hi>could not be ſav'd</hi> without believing them. The diffe<g ref="char:EOLhyphen"/>rence between <hi>ſuch truths,</hi> and thoſe that are <hi>abſolutely neceſſary</hi> to ſalvation is this: without <hi>a poſitive beliefe</hi> of the latter it is <hi>impoſſible</hi> to be ſav'd, whilſt <hi>the not believing,</hi> yea <hi>the disbelieving</hi> of the former cannot prejudice me at all; unleſſe I have bin either ſlothfull in the enquiry after truth, or have refus'd to give up my aſſent to it after it hath been duly propoſed to me. Do I then ſay that the <hi>three Creeds</hi> contain no other truths, than what I may be ignorant of without the loſſe of eternall glory? Far be it from me ſo to affirme; for I believe the moſt things in each of them are <hi>abſolutely neceſſary</hi> to ſalvation, ſuch as I account <hi>the ſimple doctrine</hi> of the Trinity, <hi>the death</hi> and <hi>reſurrection of Chriſt</hi>  But this I ſay, that there are <hi>ſomethings</hi> in thoſe <hi>Creeds,</hi> which are not <hi>abſolutely ne<g ref="char:EOLhyphen"/>ceſſary</hi> to ſalvation; <hi>and that</hi> our Church is ſo tender even in thoſe <hi>Articles</hi> it preſſes upon the <hi>Clergy,</hi> that it doth not diſtinguiſh between <hi>fundamentalls</hi> and <hi>others,</hi> but recommends the creeds <hi>in the groſſe</hi> to be receiv'd by all her children, without acknowledging any other neceſſity of the beliefe of the <hi>whole,</hi> than what ariſeth <hi>from the certain warrant</hi> they have in <hi>the word of God,</hi> and a due propoſall of them to the underſtanding. The only thing that can be <hi>objected</hi> againſt the precedent diſ<g ref="char:EOLhyphen"/>courſe
+<pb n="8" facs="tcp:42340:6"/>
+                  <!-- PDF PAGE 114 -->is, the <hi>foremention'd paſſages</hi> in ſeverall places of <hi>Athanaſius</hi> his <hi>Creed,</hi> which ſeem to make the <hi>whole</hi> of that nature, that a man <hi>cannot be ſav'd</hi> without believing it. But to this I anſwer,</p>
+               <p n="1">1. That <hi>thoſe paſſages</hi> are <hi>no part</hi> of the Creed it ſelfe, and that it cannot be thought, <hi>our Church</hi> inten<g ref="char:EOLhyphen"/>ded to burthen us with them, after ſo <hi>great evi<g ref="char:EOLhyphen"/>dence</hi> as I have produc'd to the contrary: It may more rationally be believ'd, that allowing <hi>the whole doctrine</hi> therein contain'd to be of <hi>very great importance,</hi> ſhe was unwilling to put it in <hi>other termes</hi> than <hi>in thoſe it had been tranſmitted</hi> to her, eſpecially having ſufficiently fortifi'd us <hi>againſt the harſhneſſe</hi> of the expreſſions.</p>
+               <p n="2">2. That <hi>moſt things</hi> in the Creed are <hi>abſolutely neceſſa<g ref="char:EOLhyphen"/>ry</hi> to be believ'd, and that <hi>the reſt</hi> are ſo too <hi>after a due propoſall</hi> to the underſtanding; which few men can ſay hath been wanting in this Church of ours, where the Scriptures, wherein they are not obſcurely contain'd, have been ſo duly read and explicated. I will conclude this briefe diſcourſe with a paſſage of D<hi rend="sup">r</hi> 
+                  <hi>Hammonds,</hi> and I do it the rather becauſe he is known to have been <hi>one of this Churches greateſt Champions.</hi> It is in his <hi>Treatiſe of Fundamentalls.</hi> c. 10. Sect. 3. 
+<q>As for the cenſures annext <hi>to the Athanaſian Creed,</hi> 1. in the beginning [<hi>that except a man keep the Catholique Faith</hi> (of which this is ſet down, not as the entire forme,
+<pb n="9" facs="tcp:42340:6"/>
+                     <!-- PDF PAGE 114 -->
+but an explication or interpretation of ſome parts of it) <hi>whole and undefiled, he ſhall doubtleſse periſh everlaſtingly</hi>] 2ly, In the middle <hi>[he that will be ſaved muſt thus think]</hi> and [<hi>it is neceſsary to everlasting Salvation that he alſo believe rightly in the Incarnation</hi> &amp;c.] And 3ly, in the end <hi>[this is the Catholick Faith, which except a man believe faithfully he cannot be ſav'd]</hi> I ſuppoſe they muſt be interpreted by their <hi>oppoſition</hi> to thoſe <hi>Here<g ref="char:EOLhyphen"/>ſies</hi> that had invaded the <hi>Church,</hi> and which were acts of <hi>carnality</hi> in them that broached, and maintained them, againſt the <hi>Apoſtolick Doctrine,</hi> and contradictory to that <hi>foundation</hi> which had bin reſolv'd on, as <hi>neceſsary</hi> to bring the world to the <hi>obedience of Christ,</hi> and were therefore to be <hi>anathematiz'd</hi> after this manner and with <hi>detestation</hi> branded and baniſhed out of the <hi>Church;</hi> Not that it was hereby defin'd to be <hi>a damnable ſin,</hi> to faile in the <hi>underſtanding,</hi> or <hi>believing</hi> the full matter of any of thoſe <hi>expli<g ref="char:EOLhyphen"/>cations,</hi> before they were <hi>propounded,</hi> and when it might more reaſonably be deem'd not to be any fault of the <hi>will,</hi> to which this were impu<g ref="char:EOLhyphen"/>table.</q>
+               </p>
+            </div>
+            <epigraph>
+               <bibl>Rom. 14.19.</bibl>
+               <q>Let us therefore follow after the things which make for peace and things wherewith one may edifie another.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
